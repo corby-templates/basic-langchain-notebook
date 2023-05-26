@@ -1,0 +1,7 @@
+[
+  {
+    "name": "openai_api_key",
+    "kind": "text",
+    "message": "Paste your OpenAI API key here"
+  }
+]
